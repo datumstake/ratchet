@@ -1,5 +1,5 @@
 [project]
-name = "self-verifying-ratchet"
+name = "ratchet"
 version = "0.1.0"
 description = "A workload-agnostic propose/measure/commit-or-rollback loop for untrusted automation"
 readme = "README.md"
