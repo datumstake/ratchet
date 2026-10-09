@@ -94,6 +94,7 @@ MIT. See [LICENSE](LICENSE).
 
 Built by **[datumstake](https://github.com/datumstake)**. The rest of the set:
 
-[gapsmith](https://github.com/datumstake/gapsmith) — resolve a whole class of porting gaps from rules that carry their own proof ·
-[handle](https://github.com/datumstake/handle) — a logged-in Chrome, nine verbs ·
+[pdftext](https://github.com/datumstake/pdftext) — PDF text extraction in one header file, no dependencies ·
+[adapt-engine](https://github.com/datumstake/adapt-engine) — resolve a whole class of porting gaps from rules that carry their own proof ·
+[browser-pilot](https://github.com/datumstake/browser-pilot) — a real, logged-in Chrome through a handful of one-word verbs ·
 [focus-three](https://github.com/datumstake/focus-three) — three tasks, one timer, nothing else
