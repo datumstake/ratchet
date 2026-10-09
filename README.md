@@ -1,6 +1,10 @@
 # self-verifying-ratchet
 
 [![ci](https://github.com/datumstake/self-verifying-ratchet/actions/workflows/ci.yml/badge.svg)](https://github.com/datumstake/self-verifying-ratchet/actions/workflows/ci.yml)
+[![tests](https://img.shields.io/badge/tests-8%20passing-success)](tests)
+[![python](https://img.shields.io/badge/python-3.10%2B-blue)](pyproject.toml)
+[![dependencies](https://img.shields.io/badge/runtime%20deps-0-success)](pyproject.toml)
+[![license](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 A workload-agnostic **propose → measure → commit-or-rollback** loop for automation
 that cannot be trusted to grade its own work — scripts, small local models, agents.
@@ -85,3 +89,11 @@ No third-party runtime dependencies — standard library only.
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+---
+
+Built by **[datumstake](https://github.com/datumstake)**. The rest of the set:
+
+[adapt-engine](https://github.com/datumstake/adapt-engine) — the rule-driven proposer ·
+[browser-pilot](https://github.com/datumstake/browser-pilot) — the CDP browser driver ·
+[focus-three](https://github.com/datumstake/focus-three) — a one-file offline focus tool
